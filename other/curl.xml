@@ -3,7 +3,7 @@ name: foocurl
 description: curl
 author: Go Team
 platform: unix
-keywords: curl
+keywords: curl, curl command edited
 -->
 <exec command="curl">
 <arg>-u</arg>
