@@ -4,7 +4,7 @@ description: Simple maven task.
 author: Go Team
 platform: Java
 moreinfo: http://www.thoughtworks-studios.com/content/continuous-delivery-maven-and-go-maven-central
-keywords: mvn, maven, build
+keywords: mvn, maven, build,jj
 -->
 <exec command="mvn">
   <arg>-V</arg>
